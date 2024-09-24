@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Sep 24 11:57:23 IST 2024","Tue Sep 24 11:57:26 IST 2024","2774","","","","","","Logout from OrangeHRM",""
+"passed","Tue Sep 24 11:57:08 IST 2024","Tue Sep 24 11:57:23 IST 2024","14687","","","","","","Login to OrangeHRM",""

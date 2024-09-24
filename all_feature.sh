@@ -1,0 +1,1 @@
+behave orangehrm_login.feature -f allure_behave.formatter:AllureFormatter -o allure-results

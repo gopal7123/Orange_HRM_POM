@@ -1,0 +1,1 @@
+[{"uid":"78e9a26f2f701d6b","name":"Logout from OrangeHRM","time":{"start":1727159243485,"stop":1727159246259,"duration":2774},"status":"passed","severity":"normal"},{"uid":"cd881c16c953258b","name":"Login to OrangeHRM","time":{"start":1727159228797,"stop":1727159243484,"duration":14687},"status":"passed","severity":"normal"}]
